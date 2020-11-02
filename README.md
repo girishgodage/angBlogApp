@@ -1,6 +1,20 @@
-# AngBlogApp
+# AngBlogApp 
+
+Live site URL : https://angblogapp-b43c9.web.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+
+This application is having following features
+
+● Material design
+● Add a new blog post
+● Edit an existing blog
+● Delete an existing blog
+● Authorization with Google account
+● Role-based authentication
+● Pagination for the blogs
+● Post comment on each blog
+● Option to share the blog on social channels
 
 ## Development server
 
